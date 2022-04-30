@@ -1,0 +1,314 @@
+[
+  {
+    "Id": 1,
+    "Name": "Absinthe",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 2,
+    "Name": "Aperol",
+    "Abv": 11,
+    "Taste": "bitter"
+  },
+  {
+    "Id": 3,
+    "Name": "Apricot brandy",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 4,
+    "Name": "Blackberry liqueur",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 5,
+    "Name": "Cachaca",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 6,
+    "Name": "Calvados",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 7,
+    "Name": "Campari",
+    "Abv": 25,
+    "Taste": null
+  },
+  {
+    "Id": 8,
+    "Name": "Champagne",
+    "Abv": 12,
+    "Taste": null
+  },
+  {
+    "Id": 9,
+    "Name": "Cherry liqueur",
+    "Abv": 30,
+    "Taste": null
+  },
+  {
+    "Id": 10,
+    "Name": "Coconut milk",
+    "Abv": 0,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 11,
+    "Name": "Coffee liqueur",
+    "Abv": 20,
+    "Taste": "bitter"
+  },
+  {
+    "Id": 12,
+    "Name": "Cognac",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 13,
+    "Name": "Cola",
+    "Abv": 0,
+    "Taste": "bitter"
+  },
+  {
+    "Id": 14,
+    "Name": "Cranberry juice",
+    "Abv": 0,
+    "Taste": "sour"
+  },
+  {
+    "Id": 15,
+    "Name": "Cream",
+    "Abv": 0,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 16,
+    "Name": "Cream liqueur",
+    "Abv": 20,
+    "Taste": null
+  },
+  {
+    "Id": 17,
+    "Name": "Cr\u00E9me liqueur",
+    "Abv": 20,
+    "Taste": null
+  },
+  {
+    "Id": 18,
+    "Name": "Dark rum",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 19,
+    "Name": "DiSaronno",
+    "Abv": 28,
+    "Taste": null
+  },
+  {
+    "Id": 20,
+    "Name": "DOM B\u00E9n\u00E9dictine",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 21,
+    "Name": "Drambuie",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 22,
+    "Name": "Dry White Wine",
+    "Abv": 12,
+    "Taste": null
+  },
+  {
+    "Id": 23,
+    "Name": "Egg yolk",
+    "Abv": 0,
+    "Taste": null
+  },
+  {
+    "Id": 24,
+    "Name": "Galliano",
+    "Abv": 30,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 25,
+    "Name": "Gin",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 26,
+    "Name": "Ginger Ale",
+    "Abv": 0,
+    "Taste": null
+  },
+  {
+    "Id": 27,
+    "Name": "Ginger beer",
+    "Abv": 5,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 28,
+    "Name": "Grapefruit juice",
+    "Abv": 0,
+    "Taste": "sour"
+  },
+  {
+    "Id": 29,
+    "Name": "Hot coffee",
+    "Abv": 0,
+    "Taste": "bitter"
+  },
+  {
+    "Id": 30,
+    "Name": "Kirsch",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 31,
+    "Name": "Lemon juice",
+    "Abv": 0,
+    "Taste": "sour"
+  },
+  {
+    "Id": 32,
+    "Name": "Lillet Blonde",
+    "Abv": 15,
+    "Taste": null
+  },
+  {
+    "Id": 33,
+    "Name": "Lime juice",
+    "Abv": 0,
+    "Taste": "sour"
+  },
+  {
+    "Id": 34,
+    "Name": "Olive juice",
+    "Abv": 0,
+    "Taste": "sour"
+  },
+  {
+    "Id": 35,
+    "Name": "Orange Bitters",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 36,
+    "Name": "Orange juice",
+    "Abv": 0,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 37,
+    "Name": "Peach puree",
+    "Abv": 0,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 38,
+    "Name": "Peach schnapps",
+    "Abv": 40,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 39,
+    "Name": "Pineapple juice",
+    "Abv": 0,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 40,
+    "Name": "Pisco",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 41,
+    "Name": "Prosecco",
+    "Abv": 12,
+    "Taste": null
+  },
+  {
+    "Id": 42,
+    "Name": "Raspberry liqueur",
+    "Abv": 20,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 43,
+    "Name": "Red Port",
+    "Abv": 20,
+    "Taste": null
+  },
+  {
+    "Id": 44,
+    "Name": "Soda water",
+    "Abv": 0,
+    "Taste": null
+  },
+  {
+    "Id": 45,
+    "Name": "Syrup",
+    "Abv": 0,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 46,
+    "Name": "Tequila",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 47,
+    "Name": "Tomato juice",
+    "Abv": 0,
+    "Taste": "salty"
+  },
+  {
+    "Id": 48,
+    "Name": "Triple Sec",
+    "Abv": 40,
+    "Taste": "sweet"
+  },
+  {
+    "Id": 49,
+    "Name": "Vermouth",
+    "Abv": 17,
+    "Taste": null
+  },
+  {
+    "Id": 50,
+    "Name": "Vodka",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 51,
+    "Name": "Whiskey",
+    "Abv": 40,
+    "Taste": null
+  },
+  {
+    "Id": 52,
+    "Name": "White rum",
+    "Abv": 40,
+    "Taste": null
+  }
+]
